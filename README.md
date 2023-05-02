@@ -6,7 +6,7 @@
 
 제가 이전에 작성한 코드를 보고 싶으시다면 @Narehase를 찾아주세요!
 
-주로 파이썬을 가지고 놀고 행렬로 재미있는 작업을 합니다.
+주로 파이썬에Numpy에 행렬을 가지고 재미있는 작업을 합니다.
 
 ---
 
@@ -39,37 +39,37 @@
 
 - english Version
 ---
-Hi, I'm a novice developer with the nickname Narehase.
+Hello, I'm a beginner developer with the nickname Narehase.
 
-I like to create my own algorithms and rules through experience, 
-and I can write code skilfully.
-If you want to see my previous code, you can find me **@Narehase**!
+I like to create my own algorithms and rules through experience, and I can write code proficiently.
 
-I mostly play around with Python and do fun things with matrices.
+If you want to see some code I've written before, find me @Narehase!
 
-Available code and platforms are 
+I mostly do fun things with matrices in Python and Numpy.
+
+---
+
+
+Available code and platforms include 
 
 > Android Studio (Kotlin),
 
-> C (C++)
+> C (C++),
 
-> Python
+> Python 
 
-and to some extent derivatives like **.ino** and **Java**.
+And derivative languages like **.ino** and **Java** can also be used to some extent.
 
 ---
 
 My development tree looks like this
 
-> AI:
->> ML.py (machine learning) - DNN.py (deep learning) - CNN.py (convolutional neural networks) - RN.py (reinforcement learning neural networks)
+> Artificial Intelligence : ML.py (Machine Learning) - DNN.py (Deep Learning) - CNN.py (Convolutional Neural Network) - RN.py (Reinforcement Learning Neural Network)
 
-> Application : 
->> None ( Virtual Vision : ios <-> Aos Communication App, Notification App)
+> Application : None ( Virtual Vision : ios <-> Aos Communication App, Notification App)
 
-> Other : 
->> Please give me suggestions (narehasedevel@gmail.com) here!
+> Other : Please give me suggestions (narehasedevel@gmail.com) Please contact me here!
 
----
+--- 
 > history
 - This article is translated from DeepL.
