@@ -13,7 +13,7 @@ Available code and platforms are
 
 > C (C++)
 
-> ""Python"" 
+> Python
 
 and to some extent derivatives like **.ino** and **Java**.
 
@@ -31,3 +31,5 @@ My development tree looks like this
 >> Please give me suggestions (narehasedevel@gmail.com) here!
 
 ---
+> history
+- This article is translated from DeepL.
