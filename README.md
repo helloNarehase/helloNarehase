@@ -1,5 +1,13 @@
+사용 가능한 코드 및 플랫폼은 다음과 같습니다. 
+
+> 안드로이드 스튜디오(Kotlin),
+
+> C (C++),
+
+> Python 
 
 
+<!-- 
 안녕하세요, 저는 나레하세라는 닉네임을 가진 초보 개발자입니다.
 
 저는 경험을 통해 나만의 알고리즘과 규칙을 만드는 것을 좋아하고 코드를 능숙하게 작성할 수 있습니다.
@@ -72,4 +80,4 @@ My development tree looks like this
 
 --- 
 > history
-- This article is translated from DeepL.
+- This article is translated from DeepL. -->
