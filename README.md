@@ -20,6 +20,7 @@ And remember this: “Spread the wings of your imagination”🪽
 * Python
 * C/C++
 * Arduino
+* Swift
 
 ### Modeling Software
 * Blender
